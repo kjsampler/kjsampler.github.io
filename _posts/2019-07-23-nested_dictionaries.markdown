@@ -63,8 +63,8 @@ brown_pets = []
 
 for pet in my_pets:
    if my_pets[pet]['color'] == 'brown':
-        brown_pets.append([pet])
-	```
+        brown_pets.append([pet])```
+
 	
 	Which will return Natasha and Copper. 
 
