@@ -1,12 +1,10 @@
 ---
 layout: post
 title:      "Nested Dictionaries "
-date:       2019-07-23 10:47:36 +0000
+date:       2019-07-23 06:47:37 -0400
 permalink:  nested_dictionaries
 ---
 
-
-Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
 
 For this post, I'll be talking a little bit about nested dictionaries and how to manipulate them. Of course, to make it fun, I wrote my own dictionary about... my pets! So, to start with, here is our original dictionary: 
 ```
