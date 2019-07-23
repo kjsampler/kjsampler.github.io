@@ -78,8 +78,7 @@ cats = []
 
 for pet in my_pets:
     if my_pets[pet]['species'] == 'cat':
-        cats.append([pet, my_pets[pet]['species']])
-	```
+        cats.append([pet, my_pets[pet]['species']])```
 
 When I print cats, this is the output:
 ```
