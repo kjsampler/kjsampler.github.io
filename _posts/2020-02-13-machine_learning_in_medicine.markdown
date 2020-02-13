@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Machine Learning in Medicine"
-date:       2020-02-13 06:46:17 +0000
+date:       2020-02-13 01:46:19 -0500
 permalink:  machine_learning_in_medicine
 ---
 
