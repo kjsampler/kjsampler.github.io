@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The One Where I Spent Most of the Week on One Problem"
-date:       2021-01-11 06:15:13 +0000
+date:       2021-01-11 01:15:14 -0500
 permalink:  the_one_where_i_spent_most_of_the_week_on_one_problem
 ---
 
