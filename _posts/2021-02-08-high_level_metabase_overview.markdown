@@ -1,0 +1,12 @@
+---
+layout: post
+title:      "High Level Metabase Overview"
+date:       2021-02-08 06:15:43 +0000
+permalink:  high_level_metabase_overview
+---
+
+
+For staters, let me update everyone on what happened last week re: Installing Tensorflow and Keras. Hang on tight- I ended up having to move to a Google Colab notebook. I fought with it a little more, still frustrated by the fact that I had obviously been able to make it work once. When even Tensorflow started pointing to using a Colab notebook, I opened it up and realized some comforting news- I had in fact done the previous model in Google Colab. I'm not sure how I forgot this, but there it was in my Google history. Thus the Windows 8.1 Keras and Tensorflow saga ends. I am just grateful to have a tool as useful as Google Colab to keep going on this project!  
+And speaking of tools- the subject of tonight's blog post. I was fortunate enough to interview for a data analyst position this week. The analysis side is very SQL heavy and so I got the opportunity to brush up on my skills and meet some great professionals in the field. Something that I thought was really exciting and completely new to me was a tool they mentioned called Metabase. I made a mental note to look it up later, and I was not disappointed. Metabase themself offers a series of tutorials which I have not gone through fully but did use to get an idea of the general lay out. There are also several YouTube videos that were really awesome for showing a quick overview of the functionality.  
+From my high level overview, it looks like someone combined SQL and Tableau, added dashboards, and took away the barrier of needing to know how to code. There is a "simple" question function that shows whole tables, a more complex query that gives users options of combinations to show without using SQL (although the query is still written in the background), and an option where SQL users can query the data themselves. From there, the user can create a dashboard that can be used by anyone they share the link with. What's even cooler about these dashboards? They *can* just be tables, but they can also be adapted into graphs, maps, etc. depending on the client's need.  
+This is a super high level overview of what seems to be a really incredible opportunity. I for one am hungry to learn more about it. There's so much potential, especially when the potential of data is made easier to access for people who don't code. What an awesome tool, and I'm grateful that I was introduced to it. 
